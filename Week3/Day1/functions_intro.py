@@ -41,3 +41,4 @@ def system_check():
     os.system("df -h | head -5")
 
 system_check()
+ls
