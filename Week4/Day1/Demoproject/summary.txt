@@ -1,0 +1,9 @@
+Folder Project Summary
+
+FILE: Demoproject/summary.txt
+DIR : Demoproject/tests
+DIR : Demoproject/doc
+DIR : Demoproject/src
+FILE: Demoproject/tests/README.txt
+FILE: Demoproject/doc/README.txt
+FILE: Demoproject/src/README.txt
